@@ -1,0 +1,132 @@
+{
+    "g_BBPRequireLandClaim": 0,
+    "g_BBPLandClaimBlockDismantle": 0,
+    "g_BBPLandClaimRadius": 30,
+    "g_BBPAdminLandClaimRadius": 100,
+    "g_BBPFloatingPlacement": 0,
+    "g_BBPAdvanceRotation": 0,
+    "g_BBPInventoryToggle": 0,
+    "g_BBPBarbedWireRemoveOutside": 1,
+    "g_BBPSetInfiniteLifetime": 0,
+    "g_BBPEnableTimeDestructionMod": 0,
+    "g_BBPRaidOnlyDoors": 0,
+    "g_BBPTier1RaidTime": 300,
+    "g_BBPTier2RaidTime": 600,
+    "g_BBPTier3RaidTime": 1200,
+    "g_BBPTier1RaidToolDamage": 25,
+    "g_BBPTier2RaidToolDamage": 50,
+    "g_BBPTier3RaidToolDamage": 1000,
+    "g_BBPTier1RaidTools": [
+        "Hatchet",
+        "SledgeHammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "g_BBPTier2RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "g_BBPTier3RaidTools": [
+        "SledgeHammer"
+    ],
+    "g_BBPCementMixerTime": 252,
+    "g_BBPCementMixerLocations": [
+        {
+            "position": [
+                10054.9,
+                5.99835,
+                1824.81
+            ],
+            "orientation": [
+                140.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                8025.97,
+                14.32,
+                3112.56
+            ],
+            "orientation": [
+                -134.317,
+                0,
+                -1e-06
+            ]
+        },
+        {
+            "position": [
+                2259.97,
+                185.387,
+                5228.34
+            ],
+            "orientation": [
+                31.4219,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                13320.8,
+                9.18466,
+                6120.32
+            ],
+            "orientation": [
+                0.488,
+                0.002672,
+                1.68193
+            ]
+        },
+        {
+            "position": [
+                11916.3,
+                28.7631,
+                14286.4
+            ],
+            "orientation": [
+                105.104,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                8005.1,
+                129.204,
+                12594.5
+            ],
+            "orientation": [
+                -12.6296,
+                -0.734632,
+                0.24026
+            ]
+        },
+        {
+            "position": [
+                5216.39,
+                340.97,
+                9886.9
+            ],
+            "orientation": [
+                -109.343,
+                -0.042234,
+                0.007777
+            ]
+        },
+        {
+            "position": [
+                2943.95,
+                220.784,
+                12637.5
+            ],
+            "orientation": [
+                -158.01,
+                0.018145,
+                -0.044932
+            ]
+        }
+    ]
+}

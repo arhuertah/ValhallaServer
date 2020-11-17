@@ -1,0 +1,55 @@
+{
+  "M_STATIC_MARKER_ARRAY": [
+    {
+      "M_MARKER_NAME": "Green Mountain Trader",
+      "M_ICON_PATH": "dz\\gear\\navigation\\data\\map_border_cross_ca.paa",
+      "M_COLOR": [
+        0,
+        0,
+        0
+      ],
+      "M_POSITION": [
+        3699,
+        402,
+        5980
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Kemyrna (Trader)",
+      "M_ICON_PATH": "dz\\gear\\navigation\\data\\map_border_cross_ca.paa",
+      "M_COLOR": [
+        0,
+        128,
+        0
+      ],
+      "M_POSITION": [
+        8336.1,
+        0,
+        5987.72
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Traderzone Klen",
+      "M_ICON_PATH": "dz\\gear\\navigation\\data\\map_tree_ca.paa",
+      "M_COLOR": [
+        30,
+        110,
+        20
+      ],
+      "M_POSITION": [
+        11483,
+        0,
+        11331
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    }
+  ],
+  "m_CanUse3DMarkers": 1,
+  "m_OwnPositionMarkerDisabled": 0,
+  "m_ForceMapItemOnly": 0
+}
